@@ -1,3 +1,5 @@
+![2025-07-07_11-47-47_1](https://github.com/user-attachments/assets/45c9e514-cd6b-45ec-be38-916f76a0eaeb)
+![IMG_5980](https://github.com/user-attachments/assets/8bc5add2-dc96-443e-a0e2-e5620f76a01d)
 # Knowledge Base for AI
 
 Created by Mill Pond Research for the purpose of providing quality synthetic data for the open source community.
